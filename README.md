@@ -34,7 +34,7 @@ The data was split (80% Train, 20% Test) and a `LogisticRegression` model was tr
 
 | Metric | Value | Interpretation |
 | :--- | :--- | :--- |
-| **Log Loss (Original 7-Feature Model)** | **[INSERT YOUR FINAL LOG LOSS VALUE HERE, e.g., 0.612]** | A lower value indicates better probability prediction accuracy. |
+| **Log Loss (Original 7-Feature Model)** | **[0.6257718410257236]** | A lower value indicates better probability prediction accuracy. |
 
 ### 4. Feature Coefficient Analysis
 The model's coefficients were analyzed to understand which factors drive churn:
